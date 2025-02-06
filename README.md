@@ -1,8 +1,37 @@
-# React + Vite
+# 🌍 Country, State & City Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application built with Vite and Tailwind CSS for managing hierarchical geographical data.
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-18-blue)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-4.x-orange)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-blueviolet)](https://tailwindcss.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot](screenshot.png) <!-- Add a screenshot later -->
+
+## Features
+-  Hierarchical management (Country → State → City)
+-  Add/Edit/Delete operations
+-  Confirmation dialogs for destructive actions
+-  Responsive design
+-  Modern UI with Tailwind CSS
+
+## Tech Stack
+- **Frontend**: React 18
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
+- **State Management**: React useState
+
+## Installation
+```bash
+git clone https://github.com/<your-username>/country-state-city-management.git
+cd country-state-city-management
+npm install
+```
+
+## Running the App
+```bash
+npm run dev
+```
+
+## License
+MIT License
