@@ -1,4 +1,3 @@
-// src/components/CountryList.jsx
 import StateList from './StateList'
 
 const CountryList = ({
