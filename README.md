@@ -6,7 +6,6 @@ A modern React application built with Vite and Tailwind CSS for managing hierarc
 [![Vite](https://img.shields.io/badge/Vite-4.x-orange)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-blueviolet)](https://tailwindcss.com/)
 
-![Screenshot](screenshot.png) <!-- Add a screenshot later -->
 
 ## Features
 -  Hierarchical management (Country → State → City)
@@ -23,7 +22,7 @@ A modern React application built with Vite and Tailwind CSS for managing hierarc
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/country-state-city-management.git
+git clone https://github.com/vishal-ydv17/country-state-city-management
 cd country-state-city-management
 npm install
 ```
