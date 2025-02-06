@@ -1,4 +1,3 @@
-// src/components/CityList.jsx
 const CityList = ({ state, onAddCity, onDeleteCity }) => {
   return (
     <div className="ml-6 space-y-2">
