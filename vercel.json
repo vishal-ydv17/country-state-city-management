@@ -1,0 +1,7 @@
+{
+    "build": {
+      "env": {
+        "NODE_VERSION": "18" // Use Node.js 18 (or the version you're using locally)
+      }
+    }
+  }
